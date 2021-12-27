@@ -6,6 +6,7 @@
 </head>
 <body>
 <h1><%= "Hello World!" %></h1>
+<span>Welcome to NBBS</span>
 <br/>
 <a href="hello-servlet">Hello Servlet</a>
 </body>
